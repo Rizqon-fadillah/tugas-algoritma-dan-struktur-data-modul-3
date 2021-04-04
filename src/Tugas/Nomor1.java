@@ -4,7 +4,7 @@ public class Nomor1 {
     public static void main(String[] args){
         System.out.println("Rizqon Fadillah (20090140)" + "\n");
         System.out.println(" SEQUENTIAL SEARCH " +"\n");
-        String data[] = {"Enstein" , "Galileo" , "Alkhawarizmi", "Rizqon Fadillah", "Tesla" , "Archimedes"};
+        String data[] = {"Galileo" , "Archimedes" , "Alkhawarizmi" , "Aljabar" , "Rizqon Fadillah" , "Tesla"};
         String search ;
         
         Scanner scan = new Scanner(System.in);
